@@ -3,6 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
    
-    <div>Scones & IT coming soonn</div>
+    <div>Scones & IT coming soon - Contact Jay on 0431 548 069 for tech support</div>
+    
   );
 }
