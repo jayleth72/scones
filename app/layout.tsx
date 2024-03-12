@@ -1,5 +1,8 @@
 import type { Metadata } from "next";
 import Navbar from "@/components/Navbar";
+import Footer from "@/components/Footer";
+import Hero from "@/components/Hero";
+import Contact from "@/components/Contact/HomeContactSection";
 import "./globals.css";
 
 
@@ -17,10 +20,13 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className="">
+      
         <Navbar />
-    
-        {children}
-        {/* <Footer /> */}
+        <Hero />
+        {/* {children} */}
+        <Contact />
+        <Footer />
+       
       </body>
     </html>
   );
