@@ -7,8 +7,8 @@ import links from "@/constants/links";
 
 const Footer: React.FC = () => {
   return (
-    <footer className="bg-black mt-auto py-8 text-center text-white">
-      <div className="links mb-5 h-full">
+    <footer className="bg-black mt-auto py-8 text-center text-white h-full">
+      <div className="links mb-5 ">
         {links.map((item, index) => {
           return (
             <Link

@@ -4,7 +4,7 @@ const HeroSection = () => {
       <div className="relative bg-gray-900 text-white z-0">
         {/* Hero image */}
         <img
-          src="/hero/hero.jpg" // Path to your hero image
+          src="/hero/scones_hero.jpg" // Path to your hero image
           alt="Hero Image"
           className="w-full h-auto object-cover object-center"
         />
