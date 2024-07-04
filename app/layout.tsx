@@ -3,6 +3,7 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import Hero from "@/components/Hero";
 import Contact from "@/components/Contact/HomeContactSection";
+import Services from "@/components/Services";
 import "./globals.css";
 
 
@@ -24,6 +25,7 @@ export default function RootLayout({
         <Navbar />
         <Hero />
         {/* {children} */}
+        <Services />
         <Contact />
         <Footer />
        
