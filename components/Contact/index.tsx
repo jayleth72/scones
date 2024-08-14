@@ -2,7 +2,7 @@
 const ContactPage = () => {
     return (
       <div className="container mx-auto p-8">
-        <h1 className="text-3xl font-bold mb-4">Contact Us</h1>
+        <h1 className="text-3xl font-bold mb-4">Contact Jay</h1>
         
         {/* Phone number */}
         <div className="flex items-center mb-4">
