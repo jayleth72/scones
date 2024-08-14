@@ -40,7 +40,7 @@ interface Service {
       opacity: "bg-opacity-10"
     },
     {
-      title: "Mobile app and web page set development",
+      title: "Mobile app and web page development",
       description: "Need a  mobile app or web page for your business, we can help",
       image: "/services/app.jpg",
       color: "bg-indigo-500", // Tailwind CSS utility class for indigo background
