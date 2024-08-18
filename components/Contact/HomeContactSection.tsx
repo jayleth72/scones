@@ -14,7 +14,7 @@ const HomeContactSection = () => {
           </div>
           <div className="flex items-center">
             <FontAwesomeIcon icon={faEnvelope} className="h-6 w-6 mr-2 text-blue-500" />
-            <a href="mailto:jayleth@pm.me" className="text-lg">jayleth@pm.me</a>
+            <a href="mailto:info@sconesit.com" className="text-lg">info@sconesit.com</a>
           </div>
         </div>
       </div>
