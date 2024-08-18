@@ -2,8 +2,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faMobile, faLaptop, faPrint, faWifi, faRobot, faStore } from '@fortawesome/free-solid-svg-icons';
 import Image from "next/image";
 import services from '@/constants/services'
-import Service from '@/interfaces/models'
-
+import { Service } from '@/interfaces/models'
   
   
   function ServicesSection() {
